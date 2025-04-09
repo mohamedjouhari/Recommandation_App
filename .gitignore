@@ -1,0 +1,16 @@
+# IDE-specific files
+.idea/
+.vscode/
+.metadata/
+.project
+*.iml
+
+# Compiled files
+/target/
+*.class
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
